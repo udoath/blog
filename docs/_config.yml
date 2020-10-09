@@ -21,7 +21,7 @@
 title: 三简学习
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  备案号: 蜀ICP备19028851号-1
+  个人学习网站开发中的一些记录
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
